@@ -27,8 +27,12 @@ Description: Developing a pipeline to perform quality control and taxonomic assi
 ## **🔧Detailed Skills**
 
 Programming & Analysis: R (tidyverse, DESeq2, caret, randomForest), Python (Biopython, pandas, Streamlit)
+
 Bioinformatics & Genomics: CD-HIT, HMMER, BLAST+, Abricate, genome assembly, motif analysis
+
 Data Visualization: ggplot2, ggridges, viridis, maps
+
 Spatial Analysis: sf, rnaturalearth, terra
+
 Linux / Bash: Shell scripting, HPC pipelines, SRA Toolkit, SPAdes
 
