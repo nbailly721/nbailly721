@@ -1,6 +1,6 @@
 # **Nicolas Bailly 👋**
 
-MBInf Bioinformatics Student | Bioinformatics & Computational Biology Enthusiast
+Master Bioinformatics Student | Bioinformatics & Computational Biology Enthusiast
 
 Honours B.Sc. in Biology, Western University (2025)
 
