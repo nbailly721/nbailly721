@@ -3,6 +3,7 @@
 MBInf Bioinformatics Student | Bioinformatics & Computational Biology Enthusiast
 
 Honours B.Sc. in Biology, Western University (2025)
+
 Master of Bioinformatics (MBInf), University of Guelph (Current)
 
 ## 📫 Contact: nicolasbailly65@gmail.com
