@@ -1,19 +1,19 @@
-**Nicolas Bailly 👋**
+# **Nicolas Bailly 👋**
 
 MBInf Bioinformatics Student | Bioinformatics & Computational Biology Enthusiast
 
 Honours B.Sc. in Biology, Western University (2025)
 Master of Bioinformatics (MBInf), University of Guelph (Current)
 
-📫 Contact: nicolasbailly65@gmail.com
+## 📫 Contact: nicolasbailly65@gmail.com
 
-**🌱 Current Project (In Progress)**
+## **🌱 Current Project (In Progress)**
 
 DNA Barcode Quality Control & Species ID Pipeline (Python)
 
 Description: Developing a pipeline to perform quality control and taxonomic assignment of DNA barcode sequences. Work is ongoing; no code or results posted yet.
 
-**🔧 Technical Skills & Tools**
+## **🔧 Technical Skills & Tools**
 
 Programming & Analysis: R (tidyverse, DESeq2, caret, randomForest), Python (Biopython, pandas, Streamlit)
 
