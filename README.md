@@ -1,10 +1,15 @@
-# **Nicolas Bailly 👋**
+# 👋 Hi, I'm **Nicolas Bailly**
+**Master of Bioinformatics (MBInf) Student | Bioinformatics & Computational Biology**
 
-Master Bioinformatics Student | Bioinformatics & Computational Biology Enthusiast
+I’m a graduate student focused on developing reproducible, data-driven workflows for genomics, ecological modeling, and computational biology. I enjoy building pipelines, exploring genomic datasets, and applying machine learning to real-world biological problems.
 
-Honours B.Sc. in Biology, Western University (2025)
+---
 
-Master of Bioinformatics (MBInf), University of Guelph (Current)
+## 🎓 **Education**
+- **M.BInf – Master of Bioinformatics**, University of Guelph *(Current)*
+- **Honours B.Sc. in Biology**, Western University *(2025)*
+
+---
 
 ## 📫 Contact: nicolasbailly65@gmail.com
 
