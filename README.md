@@ -13,11 +13,15 @@ I’m a graduate student focused on developing reproducible, data-driven workflo
 
 ## 📫 Contact: nicolasbailly65@gmail.com
 
+---
+
 ## **🌱 Current Project (In Progress)**
 
 DNA Barcode Quality Control & Species ID Pipeline (Python)
 
 Description: Developing a pipeline to perform quality control and taxonomic assignment of DNA barcode sequences. Work is ongoing; no code or results posted yet.
+
+---
 
 **Languages & Tools:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,6 +33,7 @@ Description: Developing a pipeline to perform quality control and taxonomic assi
 ![Biopython](https://img.shields.io/badge/-Biopython-FF6C37?style=flat)
 ![tidyverse](https://img.shields.io/badge/-tidyverse-1F77B4?style=flat)
 
+---
 
 ## **🔧Detailed Skills**
 
