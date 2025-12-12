@@ -17,9 +17,9 @@ I’m a graduate student focused on developing reproducible, data-driven workflo
 
 ## **🌱 Current Project (In Progress)**
 
-DNA Barcode Quality Control & Species ID Pipeline (Python)
+DNA Barcode Quality Control Pipeline (Python)
 
-Description: Developing a pipeline to perform quality control and taxonomic assignment of DNA barcode sequences. Work is ongoing; no code or results posted yet.
+Description: Developing a fully dynamic and reusable pipeline to perform quality control of DNA sequences. Work is ongoing; no code or results posted yet.
 
 ---
 
