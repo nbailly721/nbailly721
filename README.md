@@ -15,7 +15,7 @@ I’m a graduate student focused on developing reproducible, data-driven workflo
 
 ---
 
-🌱 **Projects**  
+## 🌱 **Projects**  
 
 **Most Recent Project: DNA Barcode Quality Control Pipeline (Python)**  
 Provides a fully dynamic and reusable workflow to perform quality control and generate summary metrics of DNA sequences. Filters ambiguous, short, or duplicate sequences, produces removal and metrics reports, and visualizes sequence length, GC content, and removal reasons.  
