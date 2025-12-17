@@ -5,6 +5,11 @@ I’m a graduate student focused on developing reproducible, data-driven workflo
 
 ---
 
+## 📈 **Trajectory**
+My earlier projects are primarily R-based, reflecting my statistical training, while my current work emphasizes Python for scalable and reproducible genomics pipelines.
+
+---
+
 ## 🎓 **Education**
 - **M.BInf – Master of Bioinformatics**, University of Guelph *(Current)*
 - **Honours B.Sc. in Biology**, Western University *(2025)*
@@ -21,7 +26,7 @@ I’m a graduate student focused on developing reproducible, data-driven workflo
 Provides a fully dynamic and reusable workflow to perform quality control and generate summary metrics of DNA sequences. Filters ambiguous, short, or duplicate sequences, produces removal and metrics reports, and visualizes sequence length, GC content, and removal reasons.  
 
 **Current Project: Genomics Data Analysis with SQL (Python)**  
-Developing a genomics data analysis pipeline in Python using SQL to manage, query, and integrate large biodiversity datasets, enabling efficient exploration of sequence metadata, species variation, and downstream analyses.
+Developing a Python-based genomics data analysis workflow using SQL to manage, query, and integrate large biodiversity datasets, enabling efficient exploration of sequence metadata, species variation, and downstream analyses.
 
 ---
 
