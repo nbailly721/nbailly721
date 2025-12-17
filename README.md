@@ -26,14 +26,7 @@ Developing a genomics data analysis pipeline in Python using SQL to manage, quer
 ---
 
 **Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Biopython](https://img.shields.io/badge/-Biopython-FF6C37?style=flat)
-![tidyverse](https://img.shields.io/badge/-tidyverse-1F77B4?style=flat)
+R (primary) • Python (genomics pipelines) • Bash • Linux • SQL
 
 ---
 
